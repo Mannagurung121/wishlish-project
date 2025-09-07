@@ -1,0 +1,9 @@
+# Node
+wishlist-backend/node_modules/
+wishlist-backend/.env
+
+# Swift / Xcode
+WishlistApp/DerivedData/
+WishlistApp/*.xcworkspace
+WishlistApp/*.xcuserstate
+WishlistApp/.DS_Store
