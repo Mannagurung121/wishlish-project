@@ -1,0 +1,40 @@
+# Wishlist Price Tracker App
+
+A smart wishlist app to track product prices on **Amazon** and **Flipkart**. Users can add product links, set target prices, and get notified when the price drops.  
+This project includes a **SwiftUI iOS frontend** and a **Node.js backend**.
+
+---
+
+## Project Structure
+wishlist-project/
+├── wishlist/        # SwiftUI frontend
+├── node/            # Node.js backend
+└── README.md
+---
+
+## Features
+
+- Add Amazon/Flipkart product links.
+- Fetch product details (title, current price, image).
+- Set target price alerts.
+- Monitor price changes automatically.
+- Real-time updates with Firebase Firestore (optional).
+
+---
+
+## Requirements
+
+- **iOS frontend**: Xcode 15+, SwiftUI  
+- **Backend**: Node.js 18+, npm  
+- **Database**: Firebase Firestore (optional for real-time price tracking)  
+- **Network**: iPhone and computer on same Wi-Fi (for local testing)
+
+---
+
+## Full Setup & Usage Instructions
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/Mannagurung121/wishlish-project.git
+cd wishlish-project
