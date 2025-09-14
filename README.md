@@ -1,4 +1,3 @@
-
 # Smart Wishlist App
 
 **Smart Wishlist** is a SwiftUI app that lets users track product prices from Amazon and Flipkart.  
@@ -8,14 +7,14 @@ Users can add products by URL, view current prices, set target price alerts, and
 
 ## 🖼️ Screenshots
 
-![IMG_5304](screenshots/IMG_5304.PNG)  
-![IMG_5305](screenshots/IMG_5305.PNG)  
-![IMG_5306](screenshots/IMG_5306.PNG)  
-![IMG_5307](screenshots/IMG_5307.PNG)  
-![IMG_5308](screenshots/IMG_5308.PNG)  
-![IMG_5309](screenshots/IMG_5309.PNG)  
-![IMG_5310](screenshots/IMG_5310.PNG)  
-![IMG_5335](screenshots/IMG_5335.PNG)
+<img src="screenshots/IMG_5304.PNG" width="400"/>
+<img src="screenshots/IMG_5305.PNG" width="400"/>
+<img src="screenshots/IMG_5306.PNG" width="400"/>
+<img src="screenshots/IMG_5307.PNG" width="400"/>
+<img src="screenshots/IMG_5308.PNG" width="400"/>
+<img src="screenshots/IMG_5309.PNG" width="400"/>
+<img src="screenshots/IMG_5310.PNG" width="400"/>
+<img src="screenshots/IMG_5335.PNG" width="400"/>
 
 ---
 
@@ -47,7 +46,6 @@ Users can add products by URL, view current prices, set target price alerts, and
 2. Build and run  
 
 ### Backend (`Wishlist_Backend`)
-1. Open terminal:  
 ```bash
 cd Desktop/wishlist-project/Wishlist_Backend
 npm install
